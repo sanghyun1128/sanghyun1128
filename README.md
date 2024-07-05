@@ -38,6 +38,12 @@
 
 <br/><br/>
 
+ <!--커리어 -->
+  ## Career :waxing_crescent_moon: 
+  :school: KMU software major : 2018.03 - 2024.02
+
+<br/><br/>
+
 <!--연락-->
   ## Contact :bell:
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=sanghyun1128@gmail.com" target="_blank">
