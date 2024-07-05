@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=about%20me&fontSize=50&animation=fadeIn&color=282A36&fontColor=F8F8F2" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanghyun1128&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-</p>
-
 <div align=center>
 <!--소개-->
 
 ## Introduction :raised_hands:
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanghyun1128&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+
 웹개발자 입니다 :sleeping:
 <br/><br/>
  
