@@ -6,8 +6,7 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanghyun1128&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanghyun1128&theme=dracula&border_radius=5&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 웹개발자 입니다 :sleeping:
 <br/><br/>
  
