@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <br/>
   <!--Others-->
-  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   
 <br/><br/>
@@ -54,9 +53,6 @@
 
 </div>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyun1128&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyun1128&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=282A36&height=100&section=footer" />
 </p>
