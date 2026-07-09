@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&text=&fontSize=50&animation=fadeIn&color=282A36&fontColor=F8F8F2" />
 </p>
 
@@ -60,4 +60,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=282A36&height=100&section=footer" />
-</p>
+</p> -->
